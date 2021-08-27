@@ -4,19 +4,60 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 27 Aug 2021 14:03:11 GMT
+// Generated on Fri, 27 Aug 2021 14:09:00 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBlack100000000,
-ColorBlack50666666,
-ColorBlack20Cccccc,
-ColorBrand100Ff3d54,
-ColorWhite100Ffffff,
-EffectDepth1Color,
-EffectDepth2Color
+ColorColorTokenBaseArtnetOrange,
+ColorColorTokenBaseArtnetBlack,
+ColorColorTokenBaseArtnetWhite,
+ColorColorTokenGrayScaleBlack100,
+ColorColorTokenGrayScaleGrey90,
+ColorColorTokenGrayScaleGray80,
+ColorColorTokenGrayScaleGray70,
+ColorColorTokenGrayScaleGray60,
+ColorColorTokenGrayScaleGray50,
+ColorColorTokenGrayScaleGray40,
+ColorColorTokenGrayScaleGray30,
+ColorColorTokenGrayScaleGray20,
+ColorColorTokenGrayScaleGray10,
+ColorColorTokenGrayScaleGrey60,
+ColorColorTokenGrayScaleGrey30,
+ColorColorTokenGrayScaleWhite100,
+ColorColorTokenStatefulGreen100,
+ColorColorTokenStatefulOrange100,
+ColorColorTokenStatefulRed100,
+ColorColorTokenStatefulBlue100,
+ColorColorStyleArtnetLogoOrange,
+ColorColorStyleArtnetLogoWhite,
+ColorColorStyleArtnetLogoDark,
+ColorColorStyleButtonPrimaryTextDefault,
+ColorColorStyleButtonPrimaryTextDisabled,
+ColorColorStyleButtonPrimaryFillDefault,
+ColorColorStyleButtonPrimaryFillHover,
+ColorColorStyleButtonPrimaryFillDisabled,
+ColorColorStyleButtonSecondaryTtextDefault,
+ColorColorStyleButtonSecondaryTtextHover,
+ColorColorStyleButtonSecondaryTtextDisabled,
+ColorColorStyleButtonSecondaryFillDefault,
+ColorColorStyleButtonSecondaryOutlineDefault,
+ColorColorStyleButtonSecondaryOutlineHover,
+ColorColorStyleButtonSecondaryOutlineDisabled,
+ColorColorStyleTextDefault,
+ColorColorStyleTextDisabled,
+ColorColorStyleTextPlaceholder,
+ColorColorStyleStatefulSuccess,
+ColorColorStyleStatefulWarning,
+ColorColorStyleStatefulError,
+ColorColorStyleStatefulInfo,
+ColorColorStyleLinkDefault,
+ColorColorStyleNavigationLinkDefault,
+ColorColorStyleNavigationLinkHover,
+ColorColorStyleNavigationLinkActive,
+ColorColorStyleChromeFocusOutline,
+ColorColorStyleChromeLinkVisited
 };
 
 @interface StyleDictionaryColor : NSObject
